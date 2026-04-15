@@ -1,4 +1,4 @@
-# Model Settings (What They Actually Do)
+# Model Settings (What They Actually Do) 
 
 These are the settings that matter and what changing them actually feels like
 in practice. Not the documentation definition, the real-world effect.
