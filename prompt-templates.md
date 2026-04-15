@@ -1,4 +1,4 @@
-# Prompt Templates
+# Prompt Templates 
 
 Reusable structures I keep coming back to. Not fill-in-the-blank fluff -
 actual patterns that change how the model responds.
